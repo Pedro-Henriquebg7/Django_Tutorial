@@ -1,0 +1,17 @@
+ # .gitignore
+.bash_history
+.gitconfig
+.vscode/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Escola/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+...
+
